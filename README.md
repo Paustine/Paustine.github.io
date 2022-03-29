@@ -1,2 +1,2 @@
 # Paustine.github.io
-My first site i'm hosting oh github
+My first site i'm hosting on github
